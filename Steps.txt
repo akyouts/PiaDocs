@@ -1,0 +1,17 @@
+Landing Pages ( Home page  )
+ -Information about thr service 
+ -Link to Doctor's Pannel
+ -Link to paitent
+ -Info about the developer complain link
+
+Paitent Registration Page
+ *-Name
+ *-Age
+ *-Address
+ *-Phone No.
+ *-Weight
+ *-Height
+ *-Sex
+ *-Comments About Paitent 
+ *-Images Related to Paitent 
+ - Prescription 
